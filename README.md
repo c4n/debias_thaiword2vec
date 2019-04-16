@@ -1,2 +1,2 @@
-# debias_thaiword2vec
-Final Project NLPII: Debiasing Thai Word2Vec
+# Debiasing Thai Word2Vec
+Computational Linguistics II: Final Project 
